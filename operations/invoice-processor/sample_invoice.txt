@@ -1,0 +1,8 @@
+Invoice Number: INV-2039
+Vendor: ABC Supplies Ltd
+Date: 12 Jan 2025
+
+Item: Office Chairs
+Amount: 1200 USD
+Tax: 120 USD
+Total: 1320 USD
