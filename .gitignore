@@ -7,6 +7,3 @@ __pycache__/
 
 # Logs
 *.log
-
-# Output files
-output.json
