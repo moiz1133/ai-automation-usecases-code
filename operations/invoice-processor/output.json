@@ -1,0 +1,9 @@
+{
+  "vendor": "ABC Supplies Ltd",
+  "invoice_number": "INV-2039",
+  "invoice_date": "12 Jan 2025",
+  "currency": "USD",
+  "subtotal": 1200,
+  "tax": 120,
+  "total": 1320
+}
